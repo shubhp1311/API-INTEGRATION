@@ -1,0 +1,14 @@
+#clock{
+    height: 800px;
+    width: 1250px;
+    float: left;
+}
+.clock1{
+    height: 250px;
+    width: 400px;
+    float: left;
+    background-color: aqua;
+    border-radius: 20px;
+    margin-left: 35%;
+    margin-top: 15%;
+}
